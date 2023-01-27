@@ -63,7 +63,7 @@ Acesse o projeto clicando [aqui](https://fel1324.github.io/Delta-Julia/).
 <h2 id="proto">🖼️ Protótipo feito no Photoshop</h2>
 
 <p align="center">
-    <img src="Delta-Interface.png" alt="Protótipo da Speed feito no Photoshop">
+    <img src="Delta-Interface.png" alt="Protótipo do Delta feito no Photoshop">
 </p>
 
 <h2 id="dev-proto">👷‍♀️ Desenvolvedora do protótipo</h2>
