@@ -42,7 +42,7 @@ Acesse o projeto clicando [aqui](https://fel1324.github.io/Delta-Julia/).
 
 <h2 id="desc">📖 Descrição do projeto</h2>
 
-<p align="justify">O Delta Coffee's consiste em um modelo de E-commerce que possui sua marca voltada aos elementos e produtos de uma cafeteria, como por exemplo: o café, o capuccino, o leite etc, representados nas cores do site, na logo do site e no design de seus produtos. Se o Delta estivesse atuando no mercado, ele possibilitaria a compra de agendas, squeezes, ecobags, entre outros produtos.</p>
+<p align="justify">O Delta Coffee's consiste em um modelo de E-commerce que possui sua marca voltada aos elementos e produtos de uma cafeteria, como por exemplo: o café, o capuccino, o leite etc, representados nas cores do site, na logo do site e no design de seus produtos. Se o Delta estivesse atuando no mercado, ele possibilitaria a compra de agendas, squeezes, ecobags, entre outros itens.</p>
 
 <br>
 
